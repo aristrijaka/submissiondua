@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Catalog2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="SHARE_VIA">Share via</string>
+    <string name="SUBJEK">This is Link by Apps Movie </string>
+    <string name="FORMAT_YYY_MM_DD">yyyy-MM-dd</string>
+    <string name="FORMAT_DAY_DD_MM_YYYY">EEEE, dd MMM yyyy</string>
+    <string name="original_language">Original Language</string>
+    <string name="original_language_sub">en</string>
+    <string name="cari_filmmu_disini">Find your movie here !!!</string>
+    <string name="judul">Tittle</string>
+    <string name="overview">Overview</string>
+    <string name="date">Date</string>
+    <string name="detail">DETAIL</string>
+    <string name="share">Share</string>
+    <string name="name_fragment_now_playing">NOW PLAYING</string>
+    <string name="name_fragment_up_coming">UP COMING</string>
+    <string name="overview_post">overview post</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="Message_loading">Sync data...</string>
+    <string name="Tittle_loading">Loading</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
